@@ -23,6 +23,7 @@ public class Exercise03 {
             System.out.println(error("Sebas"));
 
         }
+
     }
     public static void main (String[]args){
         checkUser("Sebas", "sebas01");
